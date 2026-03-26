@@ -23,7 +23,9 @@ Each button tap generates a new quote dynamically.
 
 ## 🎥 Demo (Optional)
 
-lib/assets/app_demo.gif
+## 🎥 Demo
+
+![App Demo](assets/app_demo.gif)
 
 
 ---
