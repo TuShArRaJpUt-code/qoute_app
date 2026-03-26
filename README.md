@@ -42,6 +42,6 @@ Each button tap generates a new quote dynamically.
 ## 🚀 Run Project
 
 ```bash
-git clone https://github.com/TuShArRaJpUt-code/qoute_app.git
+git clone https://github.com/TuShArRaJpUt-code/flutter-quote-app.git
 flutter pub get
 flutter run
