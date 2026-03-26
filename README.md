@@ -1,16 +1,49 @@
-# qoute_app
+# 🚀 Quotes Generator
 
-A new Flutter project.
+A Flutter application built using modern architecture and clean code practices.  
+This project demonstrates UI design, state management, and scalable app structure.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Clean and responsive UI
+- BLoC / Cubit state management
+- API integration 
+- Fast performance
+- Modular code structure
+- Error handling
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+### Home Screen
+<img width="518" height="870" alt="image" src="https://github.com/user-attachments/assets/f41aed28-c1a8-454f-a4d8-37e3dfece317" />
+
+
+### Detail Screen
+![Detail Screen](assets/screenshots/detail.png)
+
+### Other Screen
+![Other Screen](assets/screenshots/other.png)
+
+---
+
+## 🎥 Demo
+
+![App Demo](assets/screenshots/demo.gif)
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- BLoC / Cubit
+- REST API (if used)
+- Material Design
+
+---
+
+## 📂 Project Structure
