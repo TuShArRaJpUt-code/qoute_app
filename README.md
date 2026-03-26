@@ -21,7 +21,7 @@ Each button tap generates a new quote dynamically.
 
 ---
 
-## 🎥 Demo (Optional)
+
 
 ## 🎥 Demo
 
